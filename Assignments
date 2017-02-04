@@ -5,4 +5,4 @@ Read about systemd vs upstart on linux kernel
 Create a branch in above created git hub repository
 Learn about pull requests and merges in github
 Add one More linux node to Jenkins and configure it for running JAVA project
-
+Learn docker vs virtualization
