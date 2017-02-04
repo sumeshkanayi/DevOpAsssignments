@@ -1,1 +1,8 @@
+Create a chef recipe to install tomcat Application
+create a github repository and upload the above cookbook to github
+learn about different knife commands
+Read about systemd vs upstart on linux kernel
+Create a branch in above created git hub repository
+Learn about pull requests and merges in github
+Add one More linux node to Jenkins and configure it for running JAVA project
 
